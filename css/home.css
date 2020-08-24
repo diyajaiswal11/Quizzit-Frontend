@@ -1,0 +1,64 @@
+.nav-design {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    letter-spacing: 2px;
+    background-color: #252A34;
+    /* color: #08D9D6 #252A34 #FF2E63 #EAEAEA; */
+}
+
+.nav-design a {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    letter-spacing: 2px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.btn-design {
+    background-color: #d4047e;
+    color: white;
+    letter-spacing: 0.5px;
+    font-size: 20px;
+    
+}
+
+.btn-design:hover {
+    color: white;
+    letter-spacing: 0.5px;
+    font-size: 20px;
+    background-color: #750285;
+}
+
+.btn-design1 {
+    background-color: #003391;
+    color: white;
+    letter-spacing: 0.5px;
+    font-size: 20px;
+}
+
+.btn-design1:hover {
+    color: white;
+    letter-spacing: 0.5px;
+    font-size: 20px;
+    background-color: #04155f;
+}
+
+.btn-design2 {
+    background-color: #140138a8;
+    color: white;
+    letter-spacing: 0.5px;
+    font-size: 20px;
+}
+
+.btn-design2:hover {
+    color: white;
+    letter-spacing: 0.5px;
+    font-size: 20px;
+    background-color: #003391;
+}
+
+
+.card-design {
+    max-width: 80%;
+    margin-top: 40px;
+}
